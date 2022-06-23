@@ -147,3 +147,20 @@ margin-right: 30;
   background-image: linear-gradient(to bottom, #85d0ff, #009dff);
   text-decoration: none;
 }
+
+/* // Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {.breakpoints }
+
+/* // Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { .breakpoints }
+
+/* // Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { .breakpoints }
+
+/* // X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { .breakpoints }
+
+/* // XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { .breakpoints }
+
+
